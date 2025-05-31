@@ -1,0 +1,64 @@
+{
+    "extensionName": "ComfyUI-LaosHe-Linkba - Toolbar with SVG Icons and Image Box - 24px - Foldable Title - Smooth - Centered Top - Styled - Fixed Border - Swapped Abouts - State Saved - Configurable",
+    "toolbarTitle": "老何的AIGC研究室",
+
+    "DRAG_HANDLE_WIDTH": "auto",
+    "BUTTON_WIDTH": "35px",
+    "BUTTON_HEIGHT": "35px",
+    "ICON_SIZE": "24px",
+    "SEPARATOR_WIDTH": "1px",
+    "TOGGLE_BUTTON_WIDTH": "35px",
+
+    "INITIAL_TOP_OFFSET": 100,
+
+    "BORDER_COLOR": "#555",
+    "BACKGROUND_COLOR": "#333",
+    "DRAG_HANDLE_BACKGROUND": "#444",
+    "BUTTON_HOVER_BACKGROUND": "#555",
+    "TEXT_COLOR": "#ccc",
+    "BORDER_RADIUS": "8px",
+    "SEPARATOR_COLOR": "#555",
+    "TRANSITION_DURATION": 300,
+
+    "localStoragePositionKey": "ComfyUI_LaosHe_Linkba_ToolbarPositionCentered_24px_SVG_ImageBox_FoldableTitle_Smooth_CenteredTop_Styled_FixedBorder_SwappedAbouts_StateSaved_Configurable",
+    "localStorageStateKey": "ComfyUI_LaosHe_Linkba_ToolbarExpansionState_24px_SVG_ImageBox_FoldableTitle_Smooth_CenteredTop_Styled_FixedBorder_SwappedAbouts_StateSaved_Configurable",
+
+    "button1": {
+        "title": "Vip 服务指南",
+        "url": "https://www.yuque.com/helaoshi-qraaf/hls/outvy49mgv1f9qon?singleDoc# 《老何的AIGC研究所 Vip 指南》"
+    },
+    "button2": {
+        "title": "联系方式"
+    },
+    "aboutButton1": {
+        "title": "关于",
+        "modalTitle": "哩布哩布 ComfyUI 替换包",
+        "modalContent": "<p style=\"text-align: center; margin: 0 auto;\">本整合包由：何老师的AIGC制作</p><p style=\"text-align: right; margin: 0; font-size: 0.9em; color: #666;\">日期: 2025-03-31</p><div style=\"border-top: 1px solid #ddd; margin: 15px 0;\"></div><p><strong>联系方式：</strong></p><p style=\"margin-bottom: 5px;\">微信ID：hlsaigc</p><p style=\"margin-bottom: 5px;\">B站: <a href=\"https://space.bilibili.com/1313066\" target=\"_blank\">@何老师的AIGC</a></p><p style=\"margin-bottom: 5px;\">小红书: <a href=\"https://www.xiaohongshu.com/user/profile/5c60f6dd0000000018004dda?xhsshare=CopyLink&appuid=5c60f6dd0000000018004dda&apptime=1723170394\" target=\"_blank\">@何老师的AIGC</a></p><p style=\"margin-bottom: 5px;\">抖音: <a href=\"https://www.douyin.com/user/MS4wLjABAAAALTciQBf3SXl-_ONKT4gpi_EAmEHueRSWsJppdMKK14Asw1Evkl6QFInQl3DPSfLR\" target=\"_blank\">@何老师的AIGC</a></p><p style=\"margin-bottom: 5px;\">YouTube: <a href=\"https://www.youtube.com/@lunare-mcn\" target=\"_blank\">@lunare-mcn</a></p><div style=\"border-top: 1px solid #ddd; margin: 15px 0;\"></div><p><strong>使用声明：</strong></p><p>请自行查阅官方项目及模型页面了解授权许可</p><p>整合包仅用于体验、学术、研究使用</p><div style=\"border-top: 1px solid #ddd; margin: 15px 0;\"></div><p style=\"margin-top: 20px; font-size: 0.9em; color: #ccc;\">版本: 1.0.0</p>"
+    },
+    "aboutButton2": {
+        "title": "下载资源",
+        "modalTitle": "下载资源",
+        "modalContent": "<p>为方便长期维护，将增加下载地址，以便后续更新。</p><h2>下载地址</h2><p>哩布哩布替换包下载地址：</p><ul><li><a href=\"https://pan.quark.cn/s/e1819de23612\" target=\"_blank\">夸克网盘</a></li></ul><p>模型包下载地址：</p><ul><li><a href=\"https://pan.quark.cn/s/d308a7f69a12\" target=\"_blank\">夸克网盘</a></li></ul><p>更多内容待添加...</p>"
+    },
+    "imageBoxModal": {
+        "title": "老何的支援方式",
+        "qrCodes": [
+            {
+                "src": "./extensions/ComfyUI-LaosHe-Linkba/icons/qr.png",
+                "alt": "微信二维码",
+                "text": "扫码添加微信"
+            },
+            {
+                "src": "./extensions/ComfyUI-LaosHe-Linkba/icons/wxq.png",
+                "alt": "微信群二维码",
+                "text": "扫码加入微信群"
+            },
+            {
+                "src": "./extensions/ComfyUI-LaosHe-Linkba/icons/qqq.png",
+                "alt": "QQ群二维码",
+                "text": "扫码加入QQ群"
+            }
+        ],
+        "bottomText": "<p>欢迎联系老何获取更多AI相关资源和技术支持！</p><p>感谢您的关注与支持！</p>"
+    }
+}
