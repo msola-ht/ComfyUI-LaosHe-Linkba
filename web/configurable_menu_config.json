@@ -1,7 +1,7 @@
 {
-    "version": "1.1",
+    "version": "1.2",
     "extensionName": "ComfyUI-LaosHe-Linkba - Toolbar with SVG Icons and Image Box - 24px - Foldable Title - Smooth - Centered Top - Styled - Fixed Border - Swapped Abouts - State Saved - Configurable",
-    "toolbarTitle": "老何的AIGC研究室1",
+    "toolbarTitle": "老何的AIGC研究室",
 
     "DRAG_HANDLE_WIDTH": "auto",
     "BUTTON_WIDTH": "35px",
@@ -34,7 +34,7 @@
     "aboutButton1": {
         "title": "关于",
         "modalTitle": "ComfyUI 整合包/替换包",
-        "modalContent": "<p style=\"text-align: center; margin: 0 auto 10px; font-size: 1.2em; font-weight: bold;\">本整合包由：何老师的AIGC制作</p><p style=\"text-align: right; margin: 0 0 15px 0; font-size: 0.9em;\">日期: 2025-06-03</p><div style=\"border-top: 1px solid #ddd; margin: 15px 0;\"></div><p style=\"font-size: 1.1em; font-weight: bold; margin-bottom: 10px;\"><strong>联系方式：</strong></p><p style=\"margin-bottom: 8px;\">微信ID：hlsaigc</p><p style=\"margin-bottom: 8px;\">B站: <a href=\"https://space.bilibili.com/1313066\" target=\"_blank\">@何老师的AIGC</a></p><p style=\"margin-bottom: 8px;\">小红书: <a href=\"https://www.xiaohongshu.com/user/profile/5c60f6dd0000000018004dda?xhsshare=CopyLink&appuid=5c60f6dd0000000018004dda&apptime=1723170394\" target=\"_blank\">@何老师的AIGC</a></p><p style=\"margin-bottom: 8px;\">抖音: <a href=\"https://www.douyin.com/user/MS4wLjABAAAALTciQBf3SXl-_ONKT4gpi_EAmEHueRSWsJppdMKK14Asw1Evkl6QFInQl1DPSfLR\" target=\"_blank\">@何老师的AIGC</a></p><p style=\"margin-bottom: 5px;\">YouTube: <a href=\"https://www.youtube.com/@lunare-mcn\" target=\"_blank\">@lunare-mcn</a></p><div style=\"border-top: 1px solid #ddd; margin: 15px 0;\"></div><p style=\"font-size: 1.1em; font-weight: bold; margin-bottom: 10px;\"><strong>使用声明：</strong></p><p style=\"margin-bottom: 8px;\">请自行查阅官方项目及模型页面了解授权许可</p><p style=\"margin-bottom: 0;\">整合包仅用于体验、学术、研究使用</p><div style=\"border-top: 1px solid #ddd; margin: 15px 0;\"></div><p style=\"margin-top: 20px; font-size: 0.9em; color: #ccc; text-align: center;\">版本: 1.0.0</p>"
+        "modalContent": "<p style=\"text-align: center; margin: 0 auto 10px; font-size: 1.2em; font-weight: bold;\">本整合包由：何老师的AIGC制作</p> <p style=\"text-align: right; margin: 0 0 15px 0; font-size: 0.9em;\">日期: 2025-06-03</p> <div style=\"border-top: 1px solid #ddd; margin: 15px 0;\"></div> <p style=\"font-size: 1.1em; font-weight: bold; margin-bottom: 10px;\"><strong>联系方式：</strong></p> <p style=\"margin-bottom: 8px;\">微信ID：hlsaigc</p> <p style=\"margin-bottom: 8px;\">B站: <a href=\"https://space.bilibili.com/1313066\" target=\"_blank\">@何老师的AIGC</a></p> <p style=\"margin-bottom: 8px;\">小红书: <a href=\"https://www.xiaohongshu.com/user/profile/5c60f6dd0000000018004dda?xhsshare=CopyLink&appuid=5c60f6dd0000000018004dda&apptime=1723170394\" target=\"_blank\">@何老师的AIGC</a></p> <p style=\"margin-bottom: 8px;\">抖音: <a href=\"https://www.douyin.com/user/MS4wLjABAAAALTciQBf3SXl-_ONKT4gpi_EAmEHueRSWsJppdMKK14Asw1Evkl6QFInQl1DPSfLR\" target=\"_blank\">@何老师的AIGC</a></p> <p style=\"margin-bottom: 5px;\">YouTube: <a href=\"https://www.youtube.com/@lunare-mcn\" target=\"_blank\">@lunare-mcn</a></p> <div style=\"border-top: 1px solid #ddd; margin: 15px 0;\"></div> <p style=\"font-size: 1.1em; font-weight: bold; margin-bottom: 10px;\"><strong>使用声明：</strong></p> <p style=\"margin-bottom: 8px;\">请自行查阅官方项目及模型页面了解授权许可</p> <p style=\"margin-bottom: 0;\">整合包仅用于体验、学术、研究使用</p> <div style=\"border-top: 1px solid #ddd; margin: 15px 0;\"></div>"
     },
     "aboutButton2": {
         "title": "下载资源",
