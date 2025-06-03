@@ -1,7 +1,7 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "extensionName": "ComfyUI-LaosHe-Linkba - Toolbar with SVG Icons and Image Box - 24px - Foldable Title - Smooth - Centered Top - Styled - Fixed Border - Swapped Abouts - State Saved - Configurable",
-    "toolbarTitle": "老何的AIGC研究室",
+    "toolbarTitle": "老何的AIGC研究室1",
 
     "DRAG_HANDLE_WIDTH": "auto",
     "BUTTON_WIDTH": "35px",
