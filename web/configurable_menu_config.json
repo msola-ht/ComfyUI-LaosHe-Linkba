@@ -32,13 +32,13 @@
     },
     "aboutButton1": {
         "title": "关于",
-        "modalTitle": "哩布哩布 ComfyUI 替换包",
-        "modalContent": "<p style=\"text-align: center; margin: 0 auto;\">本整合包由：何老师的AIGC制作</p><p style=\"text-align: right; margin: 0; font-size: 0.9em; color: #666;\">日期: 2025-03-31</p><div style=\"border-top: 1px solid #ddd; margin: 15px 0;\"></div><p><strong>联系方式：</strong></p><p style=\"margin-bottom: 5px;\">微信ID：hlsaigc</p><p style=\"margin-bottom: 5px;\">B站: <a href=\"https://space.bilibili.com/1313066\" target=\"_blank\">@何老师的AIGC</a></p><p style=\"margin-bottom: 5px;\">小红书: <a href=\"https://www.xiaohongshu.com/user/profile/5c60f6dd0000000018004dda?xhsshare=CopyLink&appuid=5c60f6dd0000000018004dda&apptime=1723170394\" target=\"_blank\">@何老师的AIGC</a></p><p style=\"margin-bottom: 5px;\">抖音: <a href=\"https://www.douyin.com/user/MS4wLjABAAAALTciQBf3SXl-_ONKT4gpi_EAmEHueRSWsJppdMKK14Asw1Evkl6QFInQl1DPSfLR\" target=\"_blank\">@何老师的AIGC</a></p><p style=\"margin-bottom: 5px;\">YouTube: <a href=\"https://www.youtube.com/@lunare-mcn\" target=\"_blank\">@lunare-mcn</a></p><div style=\"border-top: 1px solid #ddd; margin: 15px 0;\"></div><p><strong>使用声明：</strong></p><p>请自行查阅官方项目及模型页面了解授权许可</p><p>整合包仅用于体验、学术、研究使用</p><div style=\"border-top: 1px solid #ddd; margin: 15px 0;\"></div><p style=\"margin-top: 20px; font-size: 0.9em; color: #ccc;\">版本: 1.0.0</p>"
+        "modalTitle": "ComfyUI 整合包/替换包",
+        "modalContent": "<p style=\"text-align: center; margin: 0 auto 10px; font-size: 1.2em; font-weight: bold;\">本整合包由：何老师的AIGC制作</p><p style=\"text-align: right; margin: 0 0 15px 0; font-size: 0.9em;\">日期: 2025-06-03</p><div style=\"border-top: 1px solid #ddd; margin: 15px 0;\"></div><p style=\"font-size: 1.1em; font-weight: bold; margin-bottom: 10px;\"><strong>联系方式：</strong></p><p style=\"margin-bottom: 8px;\">微信ID：hlsaigc</p><p style=\"margin-bottom: 8px;\">B站: <a href=\"https://space.bilibili.com/1313066\" target=\"_blank\">@何老师的AIGC</a></p><p style=\"margin-bottom: 8px;\">小红书: <a href=\"https://www.xiaohongshu.com/user/profile/5c60f6dd0000000018004dda?xhsshare=CopyLink&appuid=5c60f6dd0000000018004dda&apptime=1723170394\" target=\"_blank\">@何老师的AIGC</a></p><p style=\"margin-bottom: 8px;\">抖音: <a href=\"https://www.douyin.com/user/MS4wLjABAAAALTciQBf3SXl-_ONKT4gpi_EAmEHueRSWsJppdMKK14Asw1Evkl6QFInQl1DPSfLR\" target=\"_blank\">@何老师的AIGC</a></p><p style=\"margin-bottom: 5px;\">YouTube: <a href=\"https://www.youtube.com/@lunare-mcn\" target=\"_blank\">@lunare-mcn</a></p><div style=\"border-top: 1px solid #ddd; margin: 15px 0;\"></div><p style=\"font-size: 1.1em; font-weight: bold; margin-bottom: 10px;\"><strong>使用声明：</strong></p><p style=\"margin-bottom: 8px;\">请自行查阅官方项目及模型页面了解授权许可</p><p style=\"margin-bottom: 0;\">整合包仅用于体验、学术、研究使用</p><div style=\"border-top: 1px solid #ddd; margin: 15px 0;\"></div><p style=\"margin-top: 20px; font-size: 0.9em; color: #ccc; text-align: center;\">版本: 1.0.0</p>"
     },
     "aboutButton2": {
         "title": "下载资源",
         "modalTitle": "下载资源",
-        "modalContent": "<p>为方便长期维护，将增加下载地址，以便后续更新。</p><h2>下载地址</h2><p>哩布哩布替换包下载地址：</p><ul><li><a href=\"https://pan.quark.cn/s/e1819de23612\" target=\"_blank\">夸克网盘</a></li></ul><p>模型包下载地址：</p><ul><li><a href=\"https://pan.quark.cn/s/d308a7f69a12\" target=\"_blank\">夸克网盘</a></li></ul><p>更多内容待添加...</p>"
+        "modalContent": "<p>为方便长期维护，将增加下载地址，以便后续更新。</p> <h2>下载地址</h2> <p>独立整合包下载地址：</p> <ul> <li><a href=\"https://pan.quark.cn/s/248b41dd8ee1\" target=\"_blank\">夸克网盘</a></li> </ul> <p>哩布哩布替换包下载地址：</p> <ul> <li><a href=\"https://pan.quark.cn/s/e1819de23612\" target=\"_blank\">夸克网盘</a></li> </ul> <p>模型包下载地址：</p> <ul> <li><a href=\"https://pan.quark.cn/s/d308a7f69a12\" target=\"_blank\">夸克网盘</a></li> </ul> <p>更多内容待添加...</p>"
     },
     "imageBoxModal": {
         "title": "老何的支援方式",
@@ -59,6 +59,6 @@
                 "text": "扫码加入QQ群"
             }
         ],
-        "bottomText": "<p>欢迎联系老何获取更多AI相关资源和技术支持！</p><p>感谢您的关注与支持！</p>"
+        "bottomText": "<p>欢迎召唤老何为您提供远程支持！</p><p>感谢您的关注与支持！</p>"
     }
 }
